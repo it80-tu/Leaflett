@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map{
+    height: 97vh;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0
+}
+
+.select {
+    position: absolute;
+    right: 20px;
+    z-index: 2;
+    width: 50px;
+    height: 10px;
+}
